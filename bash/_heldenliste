@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" ?><helden>
+<held>
+<heldenid>3548</heldenid>
+<name>Beispiel Geweihter (DSA 4.0)</name>
+<heldenkey>1101999798203</heldenkey>
+<heldlastchange>1339408634392</heldlastchange>
+</held>
+<held>
+<heldenid>3546</heldenid>
+<name>Beispiel Zwergensöldner (DSA 4.0)</name>
+<heldenkey>1105866555116</heldenkey>
+<heldlastchange>1339408645980</heldlastchange>
+</held>
+<held>
+<heldenid>3547</heldenid>
+<name>Horasischer Einbrecher</name>
+<heldenkey>1262570898188</heldenkey>
+<heldlastchange>0</heldlastchange>
+</held>
+</helden>

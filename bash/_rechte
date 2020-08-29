@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rechte>
+<recht>
+<name>admin</name>
+<granted>false</granted>
+</recht>
+<recht>
+<name>HeldenAll</name>
+<granted>false</granted>
+</recht>
+<recht>
+<name>HeldenRead</name>
+<granted>true</granted>
+</recht>
+<recht>
+<name>HeldenWrite</name>
+<granted>false</granted>
+</recht>
+</rechte>

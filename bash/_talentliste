@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<talente>
+<talent>
+<Talent>Anderthalbhänder</Talent>
+<Kosten>65</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>9</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Armbrust</Talent>
+<Kosten>65</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>15</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Dolche</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Hiebwaffen</Talent>
+<Kosten>115</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>19</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Infanteriewaffen</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Kettenwaffen</Talent>
+<Kosten>39</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Raufen</Talent>
+<Kosten>34</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>8</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Ringen</Talent>
+<Kosten>33</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>6</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Säbel</Talent>
+<Kosten>3</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>0</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Stäbe</Talent>
+<Kosten>3</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>0</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Wurfbeile</Talent>
+<Kosten>55</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>10</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Wurfmesser</Talent>
+<Kosten>55</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>13</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Zweihandhiebwaffen</Talent>
+<Kosten>105</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>17</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Akrobatik</Talent>
+<Kosten>20</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>-3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Athletik</Talent>
+<Kosten>22</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Klettern</Talent>
+<Kosten>45</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>8</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Körperbeherrschung</Talent>
+<Kosten>39</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Reiten</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Schleichen</Talent>
+<Kosten>12</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>2</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Schwimmen</Talent>
+<Kosten>21</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Selbstbeherrschung</Talent>
+<Kosten>39</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sich verstecken</Talent>
+<Kosten>39</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Singen</Talent>
+<Kosten>3</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>0</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sinnenschärfe</Talent>
+<Kosten>45</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>8</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Tanzen</Talent>
+<Kosten>3</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>0</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Zechen</Talent>
+<Kosten>55</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>10</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Gassenwissen</Talent>
+<Kosten>20</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>-1</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Menschenkenntnis</Talent>
+<Kosten>8</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Überreden</Talent>
+<Kosten>19</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Fährtensuchen</Talent>
+<Kosten>11</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Fallen stellen</Talent>
+<Kosten>6</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>2</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Fesseln/Entfesseln</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>6</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Fischen/Angeln</Talent>
+<Kosten>4</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>1</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Orientierung</Talent>
+<Kosten>22</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>8</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Wettervorhersage</Talent>
+<Kosten>20</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>-1</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Wildnisleben</Talent>
+<Kosten>19</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Geografie</Talent>
+<Kosten>8</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Geschichtswissen</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>6</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Gesteinskunde</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>6</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Götter und Kulte</Talent>
+<Kosten>22</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>8</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Heraldik</Talent>
+<Kosten>4</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>1</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Kriegskunst</Talent>
+<Kosten>19</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Magiekunde</Talent>
+<Kosten>2</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>0</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Mechanik</Talent>
+<Kosten>19</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Pflanzenkunde</Talent>
+<Kosten>6</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>2</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Rechnen</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>6</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Rechtskunde</Talent>
+<Kosten>8</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sagen und Legenden</Talent>
+<Kosten>8</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Schätzen</Talent>
+<Kosten>19</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Staatskunst</Talent>
+<Kosten>14</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>5</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Tierkunde</Talent>
+<Kosten>28</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>10</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sprachen kennen Angram</Talent>
+<Kosten>6</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sprachen kennen Garethi</Talent>
+<Kosten>11</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>8</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sprachen kennen Nujuka</Talent>
+<Kosten>14</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>5</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sprachen kennen Oloarkh</Talent>
+<Kosten>11</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sprachen kennen Ologhaijan</Talent>
+<Kosten>11</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sprachen kennen Rogolan</Talent>
+<Kosten>21</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>14</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Sprachen kennen Tulamidya</Talent>
+<Kosten>17</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>6</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Lesen/Schreiben Angram</Talent>
+<Kosten>4</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Lesen/Schreiben Kusliker Zeichen</Talent>
+<Kosten>14</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>5</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Lesen/Schreiben Rogolan</Talent>
+<Kosten>8</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>6</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Abrichten</Talent>
+<Kosten>19</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Bergbau</Talent>
+<Kosten>8</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Grobschmied</Talent>
+<Kosten>14</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>5</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Heilkunde: Gift</Talent>
+<Kosten>14</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>5</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Heilkunde: Krankheiten</Talent>
+<Kosten>14</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>5</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Heilkunde: Wunden</Talent>
+<Kosten>25</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>9</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Holzbearbeitung</Talent>
+<Kosten>8</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Hundeschlitten fahren</Talent>
+<Kosten>11</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Kochen</Talent>
+<Kosten>11</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Lederarbeiten</Talent>
+<Kosten>11</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>4</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Malen/Zeichnen</Talent>
+<Kosten>2</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>0</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Schlösser knacken</Talent>
+<Kosten>19</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>7</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Schneidern</Talent>
+<Kosten>6</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>2</Talentwert>
+<Art>Talent</Art>
+</talent>
+<talent>
+<Talent>Zwergennase</Talent>
+<Kosten>32</Kosten>
+<Lernmethode>Gegenseitiges Lehren</Lernmethode>
+<Talentwert>3</Talentwert>
+<Art>Talent</Art>
+</talent>
+</talente>

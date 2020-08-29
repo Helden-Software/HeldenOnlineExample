@@ -1,0 +1,15 @@
+#!/bin/bash
+token=`cat token`
+id=3546
+host="https://online.helden-software.de"
+# Liste aller gespeicherten Helden
+wget -O _heldenliste "${host}/listhelden/?token=${token}"
+
+# Ein Held im Datenxml-Format zur einfachen Auswertung
+wget -O _helden_as_datenxml "${host}/returnheld/?format=datenxml&token=${token}&heldenid=${id}"
+
+# Talentliste inkl. Steigerungskosten für den Helden abrufen
+wget -O _talentliste "${host}/steigern/listtalente/?token=${token}&heldenid=${id}"
+
+# Rechte abfragen
+wget -O _rechte "${host}/tokens/getcurrentrights/?token=${token}"
